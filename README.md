@@ -19,5 +19,5 @@ This project is a simple WebGL rendering engine for generating and rendering a 3
 
 ![image](https://github.com/user-attachments/assets/110ca8a2-e446-4a2d-9ec4-014032195988)
 
-Acknowledgments
+## Acknowledgments
 The gl-matrix library by Brandon Jones and Colin MacKenzie IV for matrix and vector operations and Ian Rudnick for reference code
